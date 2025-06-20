@@ -1,0 +1,20 @@
+5                                 ← Total number of movies
+Avengers: Endgame                 ← Movie name
+0 0.00                            ← 0 ratings, total rating is 0
+0 0 0 0 0 0 0 0 0 0               ← Seat availability (0 = available, 1 = booked)
+
+Inception
+0 0.00
+0 0 0 0 0 1 0 0 0 0              ← One seat booked
+
+Final Destination - Bloodline
+0 0.00
+0 0 0 0 0 0 0 0 0 0
+
+Housefull
+0 0.00
+0 0 1 0 0 0 0 0 0 0              ← Seat 3 booked
+
+Interstellar
+0 0.00
+0 0 0 0 0 0 0 0 0 0
