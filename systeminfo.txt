@@ -1,3 +1,6 @@
+when you will use the option SAVE AND EXIT 
+compiler will automatically create a file and will store movie information in this format -
+
 5                                 ← Total number of movies
 Avengers: Endgame                 ← Movie name
 0 0.00                            ← 0 ratings, total rating is 0
